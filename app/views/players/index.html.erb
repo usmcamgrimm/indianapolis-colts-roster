@@ -1,0 +1,13 @@
+<% @players.each do |player| %>
+  <section class="player">
+    <div class="player-data">
+      <div class="player-header">
+        <h2><%= player.name %></h2>
+        <div class="num-positon">
+          <p><%= player.number %></p>
+          <p><%= player.position %></p>
+        </div>
+      </div>
+    </div>
+  </section>
+<% end %>
