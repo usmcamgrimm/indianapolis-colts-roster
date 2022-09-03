@@ -5,6 +5,10 @@
 /* Facemask Gray: #a5acaf; */
 /* Anvil Black: #10252c; */
 
+* {
+  font-family: sans-serif;
+}
+
 header {
   background-color: #a5acaf;
   margin: 0;
@@ -15,17 +19,48 @@ header {
   align-items: center;
 }
 
+h1 {
+  font-size: 2.5rem;
+  color: #013369;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #10252c;
+}
+
 .player-data {
   display: flex;
   flex-flow: row nowrap;
+  align-items: center;
   height: 240px;
   margin: 1rem 0 12px 0;
   border: 2px solid #013369;
-  border-radius: 2px;
+  border-radius: 6px;
+  padding-left: 1rem;
 }
 
-img > .player-image {
-  max-width: 144px;
-  height: auto;
+img {
+  max-width: 200px;
+  height: 150px;
 }
 
+.player-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  padding-left: 1.5rem;
+}
+
+.num-position {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.playerNum, .playerPos {
+  display: flex;
+  flex-direction: row;
+}
