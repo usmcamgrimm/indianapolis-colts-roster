@@ -42,7 +42,7 @@ h2 {
 
 .player-data {
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: row wrap;
   align-items: center;
   height: 240px;
   margin: 1rem 1rem 12px 1rem;
@@ -58,21 +58,21 @@ img {
 }
 
 .player-header {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-  align-items: flex-start;
   padding-left: 1.5rem;
+  margin-bottom: 1rem;
 }
 
-.num-position {
+.player-details {
   display: flex;
   flex-flow: row nowrap;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
 }
 
-.playerNum, .playerPos {
-  display: flex;
-  flex-direction: row;
+.playerNum {
+  padding-right: 12px;
+}
+
+.playerPos {
+  padding-left: 12px;
 }
