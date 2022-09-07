@@ -31,6 +31,7 @@ Player.create!([
   { name: 'Jonathan Taylor', number: '28', position: 'RB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4242335.png&w=350&h=254' },
   { name: 'Will Redmond', number: '29', position: 'CB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2971364.png&w=350&h=254' },
   { name: 'Dallis Flowers', number: '30', position: 'CB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4917592.png&w=350&h=254' },
+  { name: 'Phillip Lindsay', number: '30', position: 'RB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3052117.png&w=350&h=254' },
   { name: 'Brandon Facyson', number: '31', position: 'CB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3045458.png&w=350&h=254' },
   { name: 'Julian Blackmon', number: '32', position: 'S', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4035661.png&w=350&h=254' },
   { name: 'Armani Watts', number: '33', position: 'S', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3122136.png&w=350&h=254' },
