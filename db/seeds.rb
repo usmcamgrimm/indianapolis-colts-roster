@@ -38,7 +38,7 @@ Player.create!([
   { name: 'Isaiah Rodgers', number: '34', position: 'CB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4044540.png&w=350&h=254' },
   { name: 'Deon Jackson', number: '35', position: 'RB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4240455.png&w=350&h=254' },
   { name: 'Brandon King', number: '36', position: 'LB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3051905.png&w=350&h=254' },
-  { name: 'Tony Brown', number: '38', position: 'CB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3115308.png&w=350&h=254' },
+  { name: 'Tony Brown', number: '38', position: 'CB', status: 'A', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3115308.png&w=350&h=254' },
   { name: 'Marvell Tell III', number: '39', position: 'CB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3912544.png&w=350&h=254' },
   { name: 'Chris Wilcox', number: '40', position: 'CB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4046652.png&w=350&h=254' },
   { name: 'Grant Stuard', number: '41', position: 'LB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4240255.png&w=350&h=254' },
