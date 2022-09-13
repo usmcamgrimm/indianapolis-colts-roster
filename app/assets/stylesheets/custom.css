@@ -71,5 +71,14 @@ img {
 }
 
 .playerNum, .playerPos {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.playerNum {
   padding-right: 12px;
+}
+
+.playerPos {
+  padding-left: 12px;
 }
