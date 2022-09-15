@@ -8,7 +8,6 @@
 Player.create!([
   { name: 'Parris Campbell', number: '1', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3121410.png&w=350&h=254' },
   { name: 'Matt Ryan', number: '2', position: 'QB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/11237.png&w=350&h=254' },
-  { name: 'Rodrigo Blankenship', number: '3', position: 'K', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3915165.png&w=350&h=254' },
   { name: 'Sam Ehlinger', number: '4', position: 'QB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4241820.png&w=350&h=254' },
   { name: 'Stephon Gilmore', number: '5', position: 'CB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14942.png&w=350&h=254' },
   { name: 'Matt Haack', number: '6', position: 'P', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3043237.png&w=350&h=254' },
