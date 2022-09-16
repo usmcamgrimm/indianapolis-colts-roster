@@ -14,7 +14,6 @@ Player.create!([
   { name: 'Ethan Fernea', number: '7', position: 'WR', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4062711.png&w=350&h=254' },
   { name: 'Rigoberto Sanchez', number: '8', position: 'P', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3914922.png&w=350&h=254' },
   { name: 'Nick Foles', number: '9', position: 'QB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14877.png&w=350&h=254' },
-  { name: 'John Hurst', number: '9', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4683123.png&w=350&h=254' },
   { name: 'Dezmon Patmon', number: '10', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4054085.png&w=350&h=254' },
   { name: 'Michael Pittman Jr.', number: '11', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4035687.png&w=350&h=254' },
   { name: 'Alec Pierce', number: '14', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4360078.png&w=350&h=254' },
