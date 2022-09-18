@@ -62,7 +62,7 @@ Player.create!([
   { name: 'Eric Johnson', number: '93', position: 'DT', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4050971.png&w=350&h=254' },
   { name: 'Tyquan Lewis', number: '94', position: 'DE', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3040513.png&w=350&h=254' },
   { name: 'Byron Cowart', number: '96', position: 'DT', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3916922.png&w=350&h=254' },
-  { name: 'DeForest Buckner', number: '99', position: 'DT', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2971282.png&w=350&h=254' }
+  { name: 'DeForest Buckner', number: '99', position: 'DT', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2971282.png&w=350&h=254' },
   # Injured/Reserve
   { name: 'Rigoberto Sanchez', number: '8', position: 'P', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3914922.png&w=350&h=254' },
   { name: 'Armani Watts', number: '33', position: 'S', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3122136.png&w=350&h=254' },
