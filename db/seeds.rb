@@ -11,6 +11,7 @@ Player.create!([
   { name: 'Sam Ehlinger', number: '4', position: 'QB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4241820.png&w=350&h=254' },
   { name: 'Stephon Gilmore', number: '5', position: 'CB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14942.png&w=350&h=254' },
   { name: 'Matt Haack', number: '6', position: 'P', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3043237.png&w=350&h=254' },
+  { name: 'Chase McLaughlin', number: '7', position: 'K', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3150744.png&w=350&h=254' },
   { name: 'Nick Foles', number: '9', position: 'QB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14877.png&w=350&h=254' },
   { name: 'Dezmon Patmon', number: '10', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4054085.png&w=350&h=254' },
   { name: 'Michael Pittman Jr.', number: '11', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4035687.png&w=350&h=254' },
@@ -69,8 +70,7 @@ Player.create!([
   { name: 'Carter O\'Donnell', number: '61', position: 'T', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4611135.png&w=350&h=254' },
   { name: 'Andrew Ogletree', number: '85', position: 'TE', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4722908.png&w=350&h=254' },
   # Practice Squad
-  { name: 'Lucas Havrisik', number: '3', position: 'K', status: 'PS', picture: 'https://a.espncdn.com/i/teamlogos/nfl/500/ind.png' },
-  { name: 'Chase McLaughlin', number: '7', position: 'K', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3150744.png&w=350&h=254' }, 
+  { name: 'Lucas Havrisik', number: '3', position: 'K', status: 'PS', picture: 'https://a.espncdn.com/i/teamlogos/nfl/500/ind.png' }, 
   { name: 'D\'Vonte Price', number: '27', position: 'RB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4244651.png&w=350&h=254' },
   { name: 'Phillip Lindsay', number: '30', position: 'RB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3052117.png&w=350&h=254' },
   { name: 'Henry Black', number: '36', position: 'S', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3928920.png&w=350&h=254' },
