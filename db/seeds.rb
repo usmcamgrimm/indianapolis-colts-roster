@@ -15,7 +15,6 @@ Player.create!([
   { name: 'Nick Foles', number: '9', position: 'QB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14877.png&w=350&h=254' },
   { name: 'Michael Pittman Jr.', number: '11', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4035687.png&w=350&h=254' },
   { name: 'Alec Pierce', number: '14', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4360078.png&w=350&h=254' },
-  { name: 'Ashton Dulin', number: '16', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4061956.png&w=350&h=254' },
   { name: 'Mike Strachan', number: '17', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4589245.png&w=350&h=254' },
   { name: 'Nick Cross', number: '20', position: 'S', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4426403.png&w=350&h=254' },
   { name: 'Nyheim Hines', number: '21', position: 'RB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3916430.png&w=350&h=254' },
@@ -62,6 +61,7 @@ Player.create!([
   { name: 'DeForest Buckner', number: '99', position: 'DT', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2971282.png&w=350&h=254' },
   # Injured/Reserve
   { name: 'Rigoberto Sanchez', number: '8', position: 'P', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3914922.png&w=350&h=254' },
+  { name: 'Ashton Dulin', number: '16', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4061956.png&w=350&h=254' },
   { name: 'Armani Watts', number: '33', position: 'S', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3122136.png&w=350&h=254' },
   { name: 'Trevor Denbow', number: '43', position: 'S', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4360538.png&w=350&h=254' },
   { name: 'Carter O\'Donnell', number: '61', position: 'T', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4611135.png&w=350&h=254' },
