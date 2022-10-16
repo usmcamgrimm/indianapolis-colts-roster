@@ -6,6 +6,7 @@
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
 Player.create!([
+  #Active Roster
   { name: 'Parris Campbell', number: '1', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3121410.png&w=350&h=254' },
   { name: 'Matt Ryan', number: '2', position: 'QB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/11237.png&w=350&h=254' },
   { name: 'Sam Ehlinger', number: '4', position: 'QB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4241820.png&w=350&h=254' },
@@ -15,6 +16,7 @@ Player.create!([
   { name: 'Nick Foles', number: '9', position: 'QB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14877.png&w=350&h=254' },
   { name: 'Michael Pittman Jr.', number: '11', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4035687.png&w=350&h=254' },
   { name: 'Alec Pierce', number: '14', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4360078.png&w=350&h=254' },
+  { name: 'Keke Coutee', number: '15', position: 'WR', status: 'Ative', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3915823.png&w=350&h=254' },
   { name: 'Mike Strachan', number: '17', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4589245.png&w=350&h=254' },
   { name: 'Nick Cross', number: '20', position: 'S', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4426403.png&w=350&h=254' },
   { name: 'Nyheim Hines', number: '21', position: 'RB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3916430.png&w=350&h=254' },
@@ -47,7 +49,6 @@ Player.create!([
   { name: 'Braden Smith', number: '72', position: 'T', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3121595.png&w=350&h=254' },
   { name: 'Dennis Kelly', number: '73', position: 'T', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/15054.png&w=350&h=254' },
   { name: 'Will Fries', number: '75', position: 'G/T', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4045176.png&w=350&h=254' },
-  { name: 'Luke Tenuta', number: '76', position: 'OT', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4361979.png&w=350&h=254' },
   { name: 'Ryan Kelly', number: '78', position: 'C', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2578475.png&w=350&h=254' },
   { name: 'Bernhard Raimann', number: '79', position: 'T', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4362580.png&w=350&h=254' },
   { name: 'Jelani Woods', number: '80', position: 'TE', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4241410.png&w=350&h=254' },
@@ -69,7 +70,6 @@ Player.create!([
   { name: 'Andrew Ogletree', number: '85', position: 'TE', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4722908.png&w=350&h=254' },
   # Practice Squad
   { name: 'Dezmon Patmon', number: '10', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4054085.png&w=350&h=254' },
-  { name: 'Keke Coutee', number: '15', position: 'WR', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3915823.png&w=350&h=254' },
   { name: 'D\'Vonte Price', number: '27', position: 'RB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4244651.png&w=350&h=254' },
   { name: 'Phillip Lindsay', number: '30', position: 'RB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3052117.png&w=350&h=254' },
   { name: 'Henry Black', number: '36', position: 'S', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3928920.png&w=350&h=254' },
