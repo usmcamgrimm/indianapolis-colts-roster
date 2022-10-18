@@ -75,7 +75,6 @@ Player.create!([
   { name: 'Henry Black', number: '36', position: 'S', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3928920.png&w=350&h=254' },
   { name: 'Darrell Baker Jr.', number: '39', position: 'CB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4036660.png&w=350&h=254' },
   { name: 'Marcel Dabo', number: '42', position: 'DB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/5054377.png&w=350&h=254' },
-  { name: 'Nakia Griffin-Stewart', number: '47', position: 'TE', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3930035.png&w=350&h=254' },
   { name: 'Nikola Kalinic', number: '48', position: 'TE', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4916349.png&w=350&h=254' },
   { name: 'Segun Olubi', number: '50', position: 'LB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4260703.png&w=350&h=254' },
   { name: 'Ty Nsekhe', number: '65', position: 'T', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/15724.png&w=350&h=254' },
