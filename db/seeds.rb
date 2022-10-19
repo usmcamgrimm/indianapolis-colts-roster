@@ -70,6 +70,7 @@ Player.create!([
   { name: 'Andrew Ogletree', number: '85', position: 'TE', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4722908.png&w=350&h=254' },
   # Practice Squad
   { name: 'Dezmon Patmon', number: '10', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4054085.png&w=350&h=254' },
+  { name: 'DeMichael Harris', number: '12', position: 'WR', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4374496.png&w=350&h=254' },
   { name: 'D\'Vonte Price', number: '27', position: 'RB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4244651.png&w=350&h=254' },
   { name: 'Phillip Lindsay', number: '30', position: 'RB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3052117.png&w=350&h=254' },
   { name: 'Henry Black', number: '36', position: 'S', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3928920.png&w=350&h=254' },
