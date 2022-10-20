@@ -15,10 +15,10 @@ ActiveRecord::Schema[7.0].define(version: 2022_09_07_102738) do
     t.string "name"
     t.integer "number"
     t.string "position"
-    t.string "status"
     t.text "picture"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "status"
   end
 
 end
