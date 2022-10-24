@@ -69,7 +69,7 @@ Player.create!([
   { name: 'Carter O\'Donnell', number: '61', position: 'T', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4611135.png&w=350&h=254' },
   { name: 'Andrew Ogletree', number: '85', position: 'TE', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4722908.png&w=350&h=254' },
   # Practice Squad
-  { name: 'Dezmon Patmon', number: '10', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4054085.png&w=350&h=254' },
+  { name: 'Dezmon Patmon', number: '10', position: 'WR', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4054085.png&w=350&h=254' },
   { name: 'DeMichael Harris', number: '12', position: 'WR', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4374496.png&w=350&h=254' },
   { name: 'D\'Vonte Price', number: '27', position: 'RB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4244651.png&w=350&h=254' },
   { name: 'Phillip Lindsay', number: '30', position: 'RB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3052117.png&w=350&h=254' },
@@ -81,7 +81,7 @@ Player.create!([
   { name: 'Segun Olubi', number: '50', position: 'LB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4260703.png&w=350&h=254' },
   { name: 'Ty Nsekhe', number: '65', position: 'T', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/15724.png&w=350&h=254' },
   { name: 'Jordan Murray', number: '71', position: 'T', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3914494.png&w=350&h=254' },
-  { name: 'Ethan Fernea', number: '84', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4062711.png&w=350&h=254' },
+  { name: 'Ethan Fernea', number: '84', position: 'WR', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4062711.png&w=350&h=254' },
   { name: 'Vycint Smith', number: '86', position: 'WR', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3155188.png&w=350&h=254' },
   { name: 'Kameron Cline', number: '92', position: 'DE', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4041572.png&w=350&h=254' },
   { name: 'Curtis Brooks', number: '97', position: 'DT', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4037474.png&w=350&h=254' },
