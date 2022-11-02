@@ -19,7 +19,6 @@ Player.create!([
   { name: 'Keke Coutee', number: '15', position: 'WR', status: 'Ative', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3915823.png&w=350&h=254' },
   { name: 'Mike Strachan', number: '17', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4589245.png&w=350&h=254' },
   { name: 'Nick Cross', number: '20', position: 'S', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4426403.png&w=350&h=254' },
-  { name: 'Nyheim Hines', number: '21', position: 'RB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3916430.png&w=350&h=254' },
   { name: 'Kenny Moore II', number: '23', position: 'CB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3916430.png&w=350&h=254' },
   { name: 'Rodney Thomas II', number: '25', position: 'DB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4248455.png&w=350&h=254' },
   { name: 'Rodney McLeod', number: '26', position: 'S', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/15222.png&w=350&h=254' },
