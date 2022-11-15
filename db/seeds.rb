@@ -28,7 +28,7 @@ Player.create!([
   { name: 'Brandon Facyson', number: '31', position: 'CB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3045458.png&w=350&h=254' },
   { name: 'Julian Blackmon', number: '32', position: 'S', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4035661.png&w=350&h=254' },
   { name: 'Dallis Flowers', number: '33', position: 'CB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4917592.png&w=350&h=254' },
-  { name: 'Isaiah Rodgers', number: '34', position: 'CB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4044540.png&w=350&h=254' },
+  { name: 'Isaiah Rodgers Sr.', number: '34', position: 'CB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4044540.png&w=350&h=254' },
   { name: 'Deon Jackson', number: '35', position: 'RB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4240455.png&w=350&h=254' },
   { name: 'Brandon King', number: '36', position: 'LB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3051905.png&w=350&h=254' },
   { name: 'Tony Brown', number: '38', position: 'CB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3115308.png&w=350&h=254' },
