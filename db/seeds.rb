@@ -76,6 +76,7 @@ Player.create!([
   { name: 'Jake Funk', number: '37', position: 'RB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4036224.png&w=350&h=254' },
   { name: 'Darrell Baker Jr.', number: '39', position: 'CB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4036660.png&w=350&h=254' },
   { name: 'Marcel Dabo', number: '42', position: 'DB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/5054377.png&w=350&h=254' },
+  { name: 'Trevor Denbow', number: '43', position: 'S', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4360538.png&w=350&h=254' },
   { name: 'Nikola Kalinic', number: '48', position: 'TE', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4916349.png&w=350&h=254' },
   { name: 'Forrest Rhyne', number: '49', position: 'LB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4252230.png&w=350&h=254' },
   { name: 'Jalen Wydermyer', number: '49', position: 'TE', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4428952.png&w=350&h=254' },
