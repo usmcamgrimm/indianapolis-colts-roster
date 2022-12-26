@@ -70,11 +70,13 @@ Player.create!([
   { name: 'Andrew Ogletree', number: '85', position: 'TE', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4722908.png&w=350&h=254' },
   { name: 'Tyquan Lewis', number: '94', position: 'DE', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3040513.png&w=350&h=254' },
   # Practice Squad
+  { name: 'Aaron Shampklin', number: '3', position: 'RB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4248068.png&w=350&h=254' },
   { name: 'Dezmon Patmon', number: '10', position: 'WR', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4054085.png&w=350&h=254' },
   { name: 'D\'Vonte Price', number: '27', position: 'RB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4244651.png&w=350&h=254' },
   { name: 'Henry Black', number: '36', position: 'S', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3928920.png&w=350&h=254' },
   { name: 'Jake Funk', number: '37', position: 'RB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4036224.png&w=350&h=254' },
   { name: 'Darrell Baker Jr.', number: '39', position: 'CB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4036660.png&w=350&h=254' },
+  { name: 'Dominique Dafney', number: '49', position: 'TE', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4036129.png&w=350&h=254' },
   { name: 'Marcel Dabo', number: '42', position: 'DB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/5054377.png&w=350&h=254' },
   { name: 'Forrest Rhyne', number: '49', position: 'LB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4252230.png&w=350&h=254' },
   { name: 'Jalen Wydermyer', number: '49', position: 'TE', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4428952.png&w=350&h=254' },
@@ -84,5 +86,5 @@ Player.create!([
   { name: 'Ethan Fernea', number: '84', position: 'WR', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4062711.png&w=350&h=254' },
   { name: 'Vycint Smith', number: '86', position: 'WR', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3155188.png&w=350&h=254' },
   { name: 'Kameron Cline', number: '92', position: 'DE', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4041572.png&w=350&h=254' },
-  { name: 'Curtis Brooks', number: '97', position: 'DT', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4037474.png&w=350&h=254' },
+  { name: 'McTelvin Agim', number: '97', position: 'DT', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4035566.png&w=350&h=254' },
 ])
