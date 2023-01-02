@@ -56,7 +56,6 @@ Player.create!([
   { name: 'Mo Alie-Cox', number: '81', position: 'TE', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2998565.png&w=350&h=254' },
   { name: 'Kylen Granson', number: '83', position: 'TE', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4039160.png&w=350&h=254' },
   { name: 'Grover Stewart', number: '90', position: 'DT', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4058825.png&w=350&h=254' },
-  { name: 'Yannick Ngakoue', number: '91', position: 'DT', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3053044.png&w=350&h=254' },
   { name: 'Eric Johnson', number: '93', position: 'DT', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4050971.png&w=350&h=254' },
   { name: 'Chris Williams', number: '95', position: 'DT', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4034530.png&w=350&h=254' },
   { name: 'Byron Cowart', number: '96', position: 'DT', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3916922.png&w=350&h=254' },
@@ -69,6 +68,7 @@ Player.create!([
   { name: 'Shaquille Leonard', number: '53', position: 'LB', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3056362.png&w=350&h=254' },
   { name: 'Carter O\'Donnell', number: '61', position: 'T', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4611135.png&w=350&h=254' },
   { name: 'Andrew Ogletree', number: '85', position: 'TE', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4722908.png&w=350&h=254' },
+  { name: 'Yannick Ngakoue', number: '91', position: 'DT', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3053044.png&w=350&h=254' },
   { name: 'Tyquan Lewis', number: '94', position: 'DE', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3040513.png&w=350&h=254' },
   # Practice Squad
   { name: 'Aaron Shampklin', number: '3', position: 'RB', status: 'PS', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4248068.png&w=350&h=254' },
