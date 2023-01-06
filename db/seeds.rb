@@ -20,7 +20,6 @@ Player.create!([
   { name: 'Mike Strachan', number: '17', position: 'WR', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4589245.png&w=350&h=254' },
   { name: 'Nick Cross', number: '20', position: 'S', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4426403.png&w=350&h=254' },
   { name: 'Zack Moss', number: '21', position: 'RB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4035676.png&w=350&h=254' },
-  { name: 'Kenny Moore II', number: '23', position: 'CB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3916430.png&w=350&h=254' },
   { name: 'Rodney Thomas II', number: '25', position: 'DB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4248455.png&w=350&h=254' },
   { name: 'Rodney McLeod', number: '26', position: 'S', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/15222.png&w=350&h=254' },
   { name: 'Jordan Wilkins', number: '29', position: 'RB', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3051891.png&w=350&h=254' },
@@ -63,6 +62,7 @@ Player.create!([
   { name: 'DeForest Buckner', number: '99', position: 'DT', status: 'Active', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2971282.png&w=350&h=254' },
   # Injured/Reserve
   { name: 'Rigoberto Sanchez', number: '8', position: 'P', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3914922.png&w=350&h=254' },
+  { name: 'Kenny Moore II', number: '23', position: 'CB', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3916430.png&w=350&h=254' },
   { name: 'Jonathan Taylor', number: '28', position: 'RB', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4242335.png&w=350&h=254' },
   { name: 'Armani Watts', number: '33', position: 'S', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3122136.png&w=350&h=254' },
   { name: 'Isaiah Rodgers Sr.', number: '34', position: 'CB', status: 'IR', picture: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4044540.png&w=350&h=254' },
